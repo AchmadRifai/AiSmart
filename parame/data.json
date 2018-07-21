@@ -1,0 +1,22 @@
+[
+	{"nama":"Galaxy","krit":"Kualitas","val":75},
+	{"nama":"IPhone","krit":"Kualitas","val":90},
+	{"nama":"BB","krit":"Kualitas","val":80},
+	{"nama":"Lumia","krit":"Kualitas","val":70},
+	{"nama":"Galaxy","krit":"Fitur","val":100},
+	{"nama":"IPhone","krit":"Fitur","val":100},
+	{"nama":"BB","krit":"Fitur","val":90},
+	{"nama":"Lumia","krit":"Fitur","val":80},
+	{"nama":"Galaxy","krit":"Populer","val":80},
+	{"nama":"IPhone","krit":"Populer","val":60},
+	{"nama":"BB","krit":"Populer","val":85},
+	{"nama":"Lumia","krit":"Populer","val":50},
+	{"nama":"Galaxy","krit":"Purna Jual","val":90},
+	{"nama":"IPhone","krit":"Purna Jual","val":75},
+	{"nama":"BB","krit":"Purna Jual","val":60},
+	{"nama":"Lumia","krit":"Purna Jual","val":45},
+	{"nama":"Galaxy","krit":"Keawetan","val":65},
+	{"nama":"IPhone","krit":"Keawetan","val":70},
+	{"nama":"BB","krit":"Keawetan","val":70},
+	{"nama":"Lumia","krit":"Keawetan","val":80}
+]

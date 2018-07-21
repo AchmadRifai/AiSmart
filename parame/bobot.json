@@ -1,0 +1,7 @@
+[
+	{"bobot":100,"krit":"Kualitas"},
+	{"bobot":80,"krit":"Fitur"},
+	{"bobot":90,"krit":"Populer"},
+	{"bobot":50,"krit":"Purna Jual"},
+	{"bobot":70,"krit":"Keawetan"}
+]
